@@ -1,0 +1,7 @@
+
+node_modules
+.replit
+.config
+output
+*.log
+.env.local
